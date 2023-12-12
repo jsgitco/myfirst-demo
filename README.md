@@ -1,4 +1,4 @@
 # myfirst-demo
 This is my first git repo
 <br>
-Author - Jyotirmayee
+Author - Jyotirmayee Sahani
